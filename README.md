@@ -1,6 +1,8 @@
 # Simplr
 
-[Simplr ](https://simplr-eta.vercel.app/)
+![Simplr UI](simplrUI.png)
+
+[Simplr](https://simplr-eta.vercel.app/)
 
 Simplr is a **single-page application** built with **React** that makes understanding complex ideas effortless.
 
@@ -22,4 +24,3 @@ Simplr uses **AI as a middle logic layer** to process input and generate explana
 ## Technologies Used
 - React  
 - AI integration for content simplification
-
